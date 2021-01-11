@@ -22,19 +22,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "i-serv",
-    "status": "down",
-    "uptime": "6.11%",
-    "uptimeDay": "6.11%",
-    "uptimeWeek": "6.11%",
-    "uptimeMonth": "6.11%",
-    "uptimeYear": "6.11%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.43%",
+    "uptimeDay": "0.43%",
+    "uptimeWeek": "0.43%",
+    "uptimeMonth": "0.43%",
+    "uptimeYear": "0.43%",
+    "time": 570,
+    "timeDay": 570,
+    "timeWeek": 570,
+    "timeMonth": 570,
+    "timeYear": 570,
     "dailyMinutesDown": {
-      "2021-01-11": 0
+      "2021-01-11": 21
     }
   }
 ]
