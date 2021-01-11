@@ -19,10 +19,14 @@ status-website:
   introTitle: "This is the **Karatek Monitor**."
   introMessage: It shows the uptime of some **external** services I'd like to monitor. If you want me to add something here, feel free to drop me a line, see my [contact page](https://karatek.net/Legal/contact/)
   navbar:
-    - title: Status
+    - title: Monitor
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Homepage
+      href: https://karatek.net
+    - title: Status Page
+      href: https://status.karatek.systems
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
