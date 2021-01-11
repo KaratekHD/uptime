@@ -6,16 +6,7 @@ repo: status # Your GitHub repository name
 sites:
   - name: Homepage
     url: https://karatek.net
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
+  - name: IServ
     url: $SECRET_SITE
 
 status-website:
