@@ -9,7 +9,7 @@ sites:
   - name: IServ
     url: $SECRET_SITE
     icon: https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico
-  - name: IServ P
+  - name: another IServ (for comparison) 
     url: $SECRET_SITE2
     icon: https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico
 
