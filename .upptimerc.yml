@@ -8,6 +8,7 @@ sites:
     url: https://karatek.net
   - name: IServ
     url: $SECRET_SITE
+    icon: https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -16,7 +17,9 @@ status-website:
   #baseUrl: /status
   logoUrl: https://karatek.net/img/logo.png
   name: Karatek Monitor Page
+  themeUrl: https://static.opensuse.org/chameleon-3.0/dist/css/chameleon.css
   introTitle: "This is the **Karatek Monitor**."
+  favicon: https://karatek.net/img/logo.png
   introMessage: It shows the uptime of some **external** services I'd like to monitor. If you want me to add something here, feel free to drop me a line, see my [contact page](https://karatek.net/Legal/contact/)
   navbar:
     - title: Monitor
