@@ -12,6 +12,9 @@ sites:
   - name: another IServ (for comparison) 
     url: $SECRET_SITE2
     icon: https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico
+  - name: TEST
+    url: $HEISE
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
