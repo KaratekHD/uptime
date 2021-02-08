@@ -16,17 +16,17 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   #baseUrl: /status
   logoUrl: https://karatek.net/img/logo.png
-  name: Karatek Monitor Page
+  name: Karatek Monitor
   introTitle: "This is the **Karatek Monitor**."
   favicon: https://karatek.net/img/logo.png
   introMessage: It shows the uptime of some **external** services I'd like to monitor. If you want me to add something here, feel free to drop me a line, see my [contact page](https://karatek.net/Legal/contact/)
   navbar:
     - title: Monitor
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
     - title: Homepage
       href: https://karatek.net
+    - title: Blog
+      href: https://blog.karatek.net
     - title: Status Page
       href: https://status.karatek.systems
 
