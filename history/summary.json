@@ -42,12 +42,12 @@
     "url": "$SECRET_SITE2",
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv-for-comparison",
-    "status": "up",
-    "uptime": "76.00%",
-    "uptimeDay": "47.65%",
-    "uptimeWeek": "60.81%",
-    "uptimeMonth": "76.00%",
-    "uptimeYear": "76.00%",
+    "status": "down",
+    "uptime": "76.17%",
+    "uptimeDay": "48.93%",
+    "uptimeWeek": "61.04%",
+    "uptimeMonth": "76.17%",
+    "uptimeYear": "76.17%",
     "time": 545,
     "timeDay": 524,
     "timeWeek": 527,
@@ -59,7 +59,7 @@
       "2021-02-17": 596,
       "2021-02-16": 761,
       "2021-02-15": 534,
-      "2021-02-14": 610
+      "2021-02-14": 587
     }
   },
   {
