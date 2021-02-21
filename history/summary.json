@@ -13,7 +13,7 @@
     "time": 217,
     "timeDay": 229,
     "timeWeek": 226,
-    "timeMonth": 213,
+    "timeMonth": 212,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -43,23 +43,23 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv-for-comparison",
     "status": "up",
-    "uptime": "78.36%",
-    "uptimeDay": "62.34%",
-    "uptimeWeek": "61.11%",
-    "uptimeMonth": "78.36%",
-    "uptimeYear": "78.36%",
+    "uptime": "78.39%",
+    "uptimeDay": "63.37%",
+    "uptimeWeek": "61.08%",
+    "uptimeMonth": "78.39%",
+    "uptimeYear": "78.39%",
     "time": 540,
-    "timeDay": 494,
+    "timeDay": 495,
     "timeWeek": 527,
     "timeMonth": 540,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2021-02-20": 540,
+      "2021-02-20": 527,
       "2021-02-19": 740,
       "2021-02-18": 771,
       "2021-02-17": 596,
       "2021-02-16": 761,
-      "2021-02-15": 508
+      "2021-02-15": 523
     }
   },
   {
