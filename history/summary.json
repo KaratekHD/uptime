@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 106,
-    "timeWeek": 218,
+    "timeDay": 159,
+    "timeWeek": 217,
     "timeMonth": 210,
     "timeYear": 215,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 646,
-    "timeDay": 554,
-    "timeWeek": 674,
-    "timeMonth": 635,
-    "timeYear": 646,
+    "time": 653,
+    "timeDay": 797,
+    "timeWeek": 715,
+    "timeMonth": 644,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2021-01-11": 21
     }
@@ -43,14 +43,14 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv-for-comparison",
     "status": "up",
-    "uptime": "83.89%",
-    "uptimeDay": "59.58%",
+    "uptime": "84.38%",
+    "uptimeDay": "85.48%",
     "uptimeWeek": "63.28%",
-    "uptimeMonth": "83.89%",
-    "uptimeYear": "83.89%",
+    "uptimeMonth": "84.38%",
+    "uptimeYear": "84.38%",
     "time": 541,
-    "timeDay": 567,
-    "timeWeek": 531,
+    "timeDay": 547,
+    "timeWeek": 534,
     "timeMonth": 541,
     "timeYear": 541,
     "dailyMinutesDown": {
@@ -63,23 +63,5 @@
       "2021-02-18": 771,
       "2021-02-17": 21
     }
-  },
-  {
-    "name": "IServ ViKo bbbha60b2",
-    "url": "https://bbbha60b2.videoconference.iserv.eu",
-    "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
-    "slug": "i-serv-vi-ko-bbbha60b2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 695,
-    "timeWeek": 478,
-    "timeMonth": 478,
-    "timeYear": 478,
-    "dailyMinutesDown": {}
   }
 ]
