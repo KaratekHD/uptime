@@ -12,7 +12,7 @@ sites:
   - name: IServ L
     url: $LEHRTE
     icon: https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico
-  - name: IServ L
+  - name: IServ S
     url: $SEHNDE
     icon: https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico
 #  - name: IServ ViKo bbbha60b2
