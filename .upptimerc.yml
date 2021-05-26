@@ -22,7 +22,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: uptime.karatek.systems
+  cname: karatekhd.github.io
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime
   logoUrl: https://karatek.net/img/logo.png
