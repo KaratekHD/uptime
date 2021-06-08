@@ -4,18 +4,20 @@
     "url": "https://karatek.net",
     "icon": "https://favicons.githubusercontent.com/karatek.net",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 179,
-    "timeWeek": 280,
-    "timeMonth": 215,
+    "timeDay": 176,
+    "timeWeek": 267,
+    "timeMonth": 214,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "IServ",
