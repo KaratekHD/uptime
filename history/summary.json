@@ -47,19 +47,19 @@
     "url": "$LEHRTE",
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv-l",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 660,
-    "timeWeek": 665,
-    "timeMonth": 719,
-    "timeYear": 700,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.93%",
+    "time": 699,
+    "timeDay": 649,
+    "timeWeek": 662,
+    "timeMonth": 716,
+    "timeYear": 699,
     "dailyMinutesDown": {
-      "2021-06-15": 0
+      "2021-06-15": 47
     }
   },
   {
