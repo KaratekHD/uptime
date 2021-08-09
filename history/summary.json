@@ -25,11 +25,11 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 677,
     "timeDay": 621,
     "timeWeek": 580,
@@ -73,9 +73,9 @@
     "url": "$SEHNDE",
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv-s",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -84,6 +84,8 @@
     "timeWeek": 421,
     "timeMonth": 470,
     "timeYear": 470,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-09": 0
+    }
   }
 ]
