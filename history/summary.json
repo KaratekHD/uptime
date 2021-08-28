@@ -13,7 +13,7 @@
     "time": 211,
     "timeDay": 170,
     "timeWeek": 283,
-    "timeMonth": 230,
+    "timeMonth": 231,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2021-06-08": 50
@@ -33,7 +33,7 @@
     "time": 681,
     "timeDay": 620,
     "timeWeek": 730,
-    "timeMonth": 683,
+    "timeMonth": 680,
     "timeYear": 681,
     "dailyMinutesDown": {
       "2021-08-19": 15,
@@ -61,7 +61,7 @@
     "time": 700,
     "timeDay": 654,
     "timeWeek": 730,
-    "timeMonth": 728,
+    "timeMonth": 731,
     "timeYear": 700,
     "dailyMinutesDown": {
       "2021-07-07": 32,
@@ -74,19 +74,19 @@
     "url": "$SEHNDE",
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv-s",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "83.97%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "99.18%",
+    "uptimeDay": "83.81%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.79%",
-    "time": 481,
-    "timeDay": 480,
-    "timeWeek": 489,
-    "timeMonth": 486,
-    "timeYear": 481,
+    "time": 482,
+    "timeDay": 487,
+    "timeWeek": 493,
+    "timeMonth": 489,
+    "timeYear": 482,
     "dailyMinutesDown": {
-      "2021-08-28": 230,
+      "2021-08-28": 232,
       "2021-08-27": 129
     }
   }
