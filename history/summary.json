@@ -74,19 +74,19 @@
     "url": "$SEHNDE",
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv-s",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "84.20%",
-    "uptimeWeek": "96.50%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "85.04%",
+    "uptimeWeek": "96.58%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "99.80%",
     "time": 481,
-    "timeDay": 499,
+    "timeDay": 491,
     "timeWeek": 489,
     "timeMonth": 486,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2021-08-28": 224,
+      "2021-08-28": 215,
       "2021-08-27": 129
     }
   }
