@@ -15,6 +15,9 @@ sites:
   - name: IServ S
     url: $SEHNDE
     icon: https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico
+  - name: openSUSE Meet
+    url: https://meet.opensuse.org
+    icon: https://static.opensuse.org/favicon.svg
 #  - name: IServ ViKo bbbha60b2
 #    url: https://bbbha60b2.videoconference.iserv.eu
 #    icon: https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico
