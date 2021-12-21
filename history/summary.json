@@ -61,7 +61,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 712,
-    "timeDay": 518,
+    "timeDay": 525,
     "timeWeek": 727,
     "timeMonth": 672,
     "timeYear": 712,
@@ -106,19 +106,19 @@
     "url": "https://meet.opensuse.org",
     "icon": "https://static.opensuse.org/favicon.svg",
     "slug": "open-suse-meet",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1140,
-    "timeDay": 652,
-    "timeWeek": 1741,
-    "timeMonth": 1280,
-    "timeYear": 1140,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 1128,
+    "timeDay": 640,
+    "timeWeek": 1602,
+    "timeMonth": 1259,
+    "timeYear": 1128,
     "dailyMinutesDown": {
-      "2021-12-21": 0
+      "2021-12-21": 25
     }
   }
 ]
