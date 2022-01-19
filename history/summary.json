@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 206,
-    "timeDay": 186,
-    "timeWeek": 205,
+    "timeDay": 100,
+    "timeWeek": 196,
     "timeMonth": 172,
-    "timeYear": 205,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2021-06-08": 50
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 695,
-    "timeDay": 531,
+    "timeDay": 611,
     "timeWeek": 627,
-    "timeMonth": 665,
+    "timeMonth": 664,
     "timeYear": 695,
     "dailyMinutesDown": {
       "2021-11-01": 77,
@@ -60,8 +60,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.85%",
     "time": 769,
-    "timeDay": 639,
-    "timeWeek": 2770,
+    "timeDay": 641,
+    "timeWeek": 2771,
     "timeMonth": 1177,
     "timeYear": 769,
     "dailyMinutesDown": {
@@ -88,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 509,
-    "timeDay": 418,
-    "timeWeek": 482,
-    "timeMonth": 484,
+    "timeDay": 437,
+    "timeWeek": 475,
+    "timeMonth": 482,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2021-09-08": 129,
@@ -107,16 +107,16 @@
     "icon": "https://static.opensuse.org/favicon.svg",
     "slug": "open-suse-meet",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.93%",
-    "time": 1032,
-    "timeDay": 627,
+    "uptimeYear": "99.94%",
+    "time": 1027,
+    "timeDay": 652,
     "timeWeek": 815,
-    "timeMonth": 895,
-    "timeYear": 1032,
+    "timeMonth": 873,
+    "timeYear": 1027,
     "dailyMinutesDown": {
       "2021-12-21": 66
     }
