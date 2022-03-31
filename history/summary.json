@@ -109,9 +109,9 @@
     "url": "https://meet.opensuse.org",
     "icon": "https://static.opensuse.org/favicon.svg",
     "slug": "open-suse-meet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -121,6 +121,7 @@
     "timeMonth": 901,
     "timeYear": 939,
     "dailyMinutesDown": {
+      "2022-03-31": 0,
       "2021-12-21": 66
     }
   }
