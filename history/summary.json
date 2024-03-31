@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 263,
-    "timeDay": 105,
-    "timeWeek": 163,
-    "timeMonth": 173,
+    "timeDay": 135,
+    "timeWeek": 162,
+    "timeMonth": 172,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2023-12-30": 1017,
@@ -26,10 +26,10 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv",
     "status": "down",
-    "uptime": "56.10%",
+    "uptime": "56.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-30": 29,
+      "2024-03-31": 34,
+      "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
@@ -400,8 +401,7 @@
       "2023-04-05": 1440,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
-      "2023-04-02": 1440,
-      "2023-04-01": 1440
+      "2023-04-02": 1440
     }
   },
   {
@@ -410,10 +410,10 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv-l",
     "status": "down",
-    "uptime": "51.70%",
+    "uptime": "51.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -421,7 +421,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-30": 29,
+      "2024-03-31": 34,
+      "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
@@ -784,8 +785,7 @@
       "2023-04-05": 1440,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
-      "2023-04-02": 1440,
-      "2023-04-01": 1440
+      "2023-04-02": 1440
     }
   },
   {
@@ -794,10 +794,10 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv-s",
     "status": "down",
-    "uptime": "51.60%",
+    "uptime": "51.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -805,7 +805,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-30": 29,
+      "2024-03-31": 35,
+      "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
@@ -1168,8 +1169,7 @@
       "2023-04-05": 1440,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
-      "2023-04-02": 1440,
-      "2023-04-01": 1440
+      "2023-04-02": 1440
     }
   },
   {
@@ -1183,11 +1183,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.05%",
-    "time": 1304,
-    "timeDay": 2017,
-    "timeWeek": 1760,
-    "timeMonth": 1920,
-    "timeYear": 1386,
+    "time": 1307,
+    "timeDay": 2253,
+    "timeWeek": 1532,
+    "timeMonth": 1931,
+    "timeYear": 1389,
     "dailyMinutesDown": {
       "2024-01-10": 25,
       "2023-12-06": 694,
