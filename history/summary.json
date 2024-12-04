@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 192,
-    "timeDay": 199,
+    "timeDay": 129,
     "timeWeek": 177,
-    "timeMonth": 179,
-    "timeYear": 180,
+    "timeMonth": 177,
+    "timeYear": 179,
     "dailyMinutesDown": {
       "2023-12-30": 1017,
       "2023-12-29": 1294
@@ -26,7 +26,7 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv",
     "status": "down",
-    "uptime": "46.31%",
+    "uptime": "46.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-03": 46,
+      "2024-12-04": 45,
+      "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -400,8 +401,7 @@
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
-      "2023-12-06": 1440,
-      "2023-12-05": 1440
+      "2023-12-06": 1440
     }
   },
   {
@@ -410,7 +410,7 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv-l",
     "status": "down",
-    "uptime": "41.94%",
+    "uptime": "41.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -421,7 +421,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-03": 46,
+      "2024-12-04": 45,
+      "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -784,8 +785,7 @@
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
-      "2023-12-06": 1440,
-      "2023-12-05": 1440
+      "2023-12-06": 1440
     }
   },
   {
@@ -794,7 +794,7 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv-s",
     "status": "down",
-    "uptime": "41.86%",
+    "uptime": "41.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -805,7 +805,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-03": 46,
+      "2024-12-04": 45,
+      "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -1168,8 +1169,7 @@
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
-      "2023-12-06": 1440,
-      "2023-12-05": 1440
+      "2023-12-06": 1440
     }
   },
   {
@@ -1178,23 +1178,22 @@
     "icon": "https://static.opensuse.org/favicon.svg",
     "slug": "open-suse-meet",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.98%",
-    "time": 1320,
-    "timeDay": 1188,
-    "timeWeek": 1542,
-    "timeMonth": 1241,
-    "timeYear": 1334,
+    "uptimeYear": "99.26%",
+    "time": 1319,
+    "timeDay": 628,
+    "timeWeek": 1525,
+    "timeMonth": 1215,
+    "timeYear": 1332,
     "dailyMinutesDown": {
       "2024-07-23": 300,
       "2024-07-19": 37,
       "2024-04-27": 23,
       "2024-01-10": 25,
-      "2023-12-06": 694,
-      "2023-12-05": 1440
+      "2023-12-06": 694
     }
   }
 ]
