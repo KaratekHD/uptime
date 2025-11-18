@@ -4,19 +4,19 @@
     "url": "https://karatek.net",
     "icon": "https://icons.duckduckgo.com/ip3/karatek.net.ico",
     "slug": "homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "97.24%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "91.45%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.98%",
     "time": 194,
-    "timeDay": 133,
-    "timeWeek": 176,
-    "timeMonth": 195,
+    "timeDay": 157,
+    "timeWeek": 183,
+    "timeMonth": 197,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2025-11-18": 40
+      "2025-11-18": 123
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 798,
+      "2025-11-18": 882,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -420,7 +420,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 798,
+      "2025-11-18": 882,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -804,7 +804,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 798,
+      "2025-11-18": 882,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
