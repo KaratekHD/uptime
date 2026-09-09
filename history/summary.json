@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 185,
-    "timeDay": 178,
-    "timeWeek": 180,
-    "timeMonth": 178,
+    "timeDay": 151,
+    "timeWeek": 175,
+    "timeMonth": 177,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2025-11-18": 123,
@@ -27,7 +27,7 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv",
     "status": "down",
-    "uptime": "31.87%",
+    "uptime": "31.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 110,
+      "2026-09-09": 116,
+      "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
@@ -401,8 +402,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
@@ -411,7 +411,7 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv-l",
     "status": "down",
-    "uptime": "28.14%",
+    "uptime": "28.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -422,7 +422,8 @@
     "timeMonth": 0,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2026-09-08": 110,
+      "2026-09-09": 116,
+      "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
@@ -785,8 +786,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
@@ -795,7 +795,7 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv-s",
     "status": "down",
-    "uptime": "28.09%",
+    "uptime": "28.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -806,7 +806,8 @@
     "timeMonth": 641,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2026-09-08": 110,
+      "2026-09-09": 116,
+      "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
@@ -1169,8 +1170,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
@@ -1185,9 +1185,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1013,
-    "timeDay": 579,
-    "timeWeek": 812,
-    "timeMonth": 777,
+    "timeDay": 605,
+    "timeWeek": 810,
+    "timeMonth": 769,
     "timeYear": 1000,
     "dailyMinutesDown": {}
   }
