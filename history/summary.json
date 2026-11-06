@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 187,
-    "timeDay": 191,
-    "timeWeek": 228,
-    "timeMonth": 216,
-    "timeYear": 180,
+    "timeDay": 214,
+    "timeWeek": 226,
+    "timeMonth": 218,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2025-11-18": 123,
       "2026-01-27": 424,
@@ -27,7 +27,7 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv",
     "status": "down",
-    "uptime": "31.00%",
+    "uptime": "30.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-05": 240,
+      "2026-11-06": 238,
+      "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -401,8 +402,7 @@
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
-      "2025-11-07": 1440,
-      "2025-11-06": 1440
+      "2025-11-07": 1440
     }
   },
   {
@@ -411,7 +411,7 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv-l",
     "status": "down",
-    "uptime": "27.33%",
+    "uptime": "27.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -422,7 +422,8 @@
     "timeMonth": 0,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2026-11-05": 240,
+      "2026-11-06": 239,
+      "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -785,8 +786,7 @@
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
-      "2025-11-07": 1440,
-      "2025-11-06": 1440
+      "2025-11-07": 1440
     }
   },
   {
@@ -795,7 +795,7 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv-s",
     "status": "down",
-    "uptime": "27.28%",
+    "uptime": "27.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -806,7 +806,8 @@
     "timeMonth": 523,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2026-11-05": 240,
+      "2026-11-06": 239,
+      "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -1169,8 +1170,7 @@
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
-      "2025-11-07": 1440,
-      "2025-11-06": 1440
+      "2025-11-07": 1440
     }
   },
   {
@@ -1179,16 +1179,16 @@
     "icon": "https://static.opensuse.org/favicon.svg",
     "slug": "open-suse-meet",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 987,
-    "timeDay": 695,
-    "timeWeek": 746,
-    "timeMonth": 808,
-    "timeYear": 972,
+    "time": 986,
+    "timeDay": 891,
+    "timeWeek": 767,
+    "timeMonth": 806,
+    "timeYear": 971,
     "dailyMinutesDown": {}
   }
 ]
