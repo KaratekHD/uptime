@@ -27,7 +27,7 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv",
     "status": "down",
-    "uptime": "30.99%",
+    "uptime": "30.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-06": 238,
+      "2026-11-06": 1032,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
@@ -422,7 +422,7 @@
     "timeMonth": 0,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2026-11-06": 239,
+      "2026-11-06": 1032,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
@@ -806,7 +806,7 @@
     "timeMonth": 523,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2026-11-06": 239,
+      "2026-11-06": 1032,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
@@ -1178,17 +1178,19 @@
     "url": "https://meet.opensuse.org",
     "icon": "https://static.opensuse.org/favicon.svg",
     "slug": "open-suse-meet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 986,
+    "time": 987,
     "timeDay": 891,
     "timeWeek": 767,
     "timeMonth": 806,
     "timeYear": 971,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-06": 0
+    }
   }
 ]
