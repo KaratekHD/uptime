@@ -27,7 +27,7 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv",
     "status": "down",
-    "uptime": "30.84%",
+    "uptime": "30.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-16": 214,
+      "2026-11-16": 1055,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -411,7 +411,7 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv-l",
     "status": "down",
-    "uptime": "27.18%",
+    "uptime": "27.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -422,7 +422,7 @@
     "timeMonth": 0,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2026-11-16": 214,
+      "2026-11-16": 1055,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -795,7 +795,7 @@
     "icon": "https://iserv.de/user/sites/iserv/themes/iserv/images/favicon.ico",
     "slug": "i-serv-s",
     "status": "down",
-    "uptime": "27.13%",
+    "uptime": "27.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -806,7 +806,7 @@
     "timeMonth": 523,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2026-11-16": 214,
+      "2026-11-16": 1055,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -1178,9 +1178,9 @@
     "url": "https://meet.opensuse.org",
     "icon": "https://static.opensuse.org/favicon.svg",
     "slug": "open-suse-meet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.94%",
@@ -1190,7 +1190,8 @@
     "timeMonth": 829,
     "timeYear": 967,
     "dailyMinutesDown": {
-      "2026-11-06": 293
+      "2026-11-06": 293,
+      "2026-11-16": 0
     }
   }
 ]
